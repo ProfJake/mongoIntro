@@ -1,1 +1,0 @@
-{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"newTest-project.aposLocks"}],"uuid":"c628cc6e68d141518875b5d2dddbe97c"}

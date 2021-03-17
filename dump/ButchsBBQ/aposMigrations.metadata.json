@@ -1,1 +1,0 @@
-{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"ButchsBBQ.aposMigrations"}],"uuid":"7da54d10895d4fcebe427cf68e9110cc"}

@@ -1,1 +1,0 @@
-{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"activityDB.activities"}],"uuid":"0b27897f439c4e1b833058224a93fc4b"}
